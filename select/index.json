@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ウェディングロード feat. Noa（feat. Noa）",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-02-07T07:12:49.608893Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウェディングロード feat.Noa",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/pl_01_ウェディングロード_feat.Noa_LGYankees.txt"
+    }
+  ]
+}
